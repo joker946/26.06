@@ -1,0 +1,6 @@
+\\psf\Dropbox\Programming\Software Developing\Лекции\26.06\26.06\bin\Debug\26.06.exe.config
+\\psf\Dropbox\Programming\Software Developing\Лекции\26.06\26.06\bin\Debug\26.06.exe
+\\psf\Dropbox\Programming\Software Developing\Лекции\26.06\26.06\bin\Debug\26.06.pdb
+\\psf\Dropbox\Programming\Software Developing\Лекции\26.06\26.06\obj\Debug\26.06.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Programming\Software Developing\Лекции\26.06\26.06\obj\Debug\26.06.exe
+\\psf\Dropbox\Programming\Software Developing\Лекции\26.06\26.06\obj\Debug\26.06.pdb
